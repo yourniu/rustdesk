@@ -105,8 +105,8 @@ const CHARS: &[char] = &[
 // pub const RENDEZVOUS_SERVERS: &[&str] = &["10.100.5.100"];
 // pub const RS_PUB_KEY: &str = "kLaAMBZgTggOspLZjvUZc+ibDWMuPMuv2X1cWnrrgi4=";
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["yc.itgemini.net:21116"];
-pub const RELAY_SERVERS: &[&str] = &["yc.itgemini.net:21117"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["yc.itgemini.net"];
+pub const RELAY_SERVERS: &[&str] = &["yc.itgemini.net"];
 pub const RS_PUB_KEY: &str = "kLaAMBZgTggOspLZjvUZc+ibDWMuPMuv2X1cWnrrgi4=";
 
 
