@@ -3519,7 +3519,7 @@ Widget loadPowered(BuildContext context) {
     cursor: SystemMouseCursors.click,
     child: GestureDetector(
       onTap: () {
-        launchUrl(Uri.parse('https://rustdesk.com'));
+        launchUrl(Uri.parse('https://itgemini.net/download'));
       },
       child: Opacity(
           opacity: 0.5,
@@ -3529,7 +3529,7 @@ Widget loadPowered(BuildContext context) {
             style: Theme.of(context)
                 .textTheme
                 .bodySmall
-                ?.copyWith(fontSize: 9, decoration: TextDecoration.underline),
+                ?.copyWith(fontSize: 12, decoration: TextDecoration.underline),
           )),
     ),
   ).marginOnly(top: 6);
